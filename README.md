@@ -1,6 +1,6 @@
 # Pogodynka
 
-Script is used for downloading data from the website monitor.pogodynka.pl.
+Script is used for downloading data from the website monitor.pogodynka.pl for three stations.
 
 ### Prerequisites
 
@@ -8,6 +8,7 @@ It is necessary to install some Python libraries on your machine to use this scr
 * Selenium
 * Pandas
 * NumPy
+* OpenPyXL
 
 ### Using Web Browser
 
@@ -17,4 +18,4 @@ For using another browser, it is necessary to modificate the code and use specif
 
 ### Output
 
-Output of the script is Excel .xlsx file.
+Output of the script are three Excel .xlsx files.
